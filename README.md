@@ -1,2 +1,3 @@
 # db_sbertech_2024
-This is a repository for db course in SberTech MIPT
+
+Отчет по первому ДЗ - https://github.com/AndreyTkachik/db_sbertech_2024/blob/main/hw1_readme.md
